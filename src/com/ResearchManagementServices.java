@@ -13,6 +13,7 @@ import org.jsoup.nodes.Document;
 
 @Path("/Research")
 
+//research Management
 public class ResearchManagementServices {
 	
 	ResearchManagement research = new ResearchManagement();
